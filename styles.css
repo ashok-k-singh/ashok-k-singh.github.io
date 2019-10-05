@@ -79,7 +79,7 @@ h3 {
 
 /* Selecting elements by class */
 .container {
-  width: 1024px;
+  width: 1280px;
   margin: 0 auto;
 }
 
@@ -95,17 +95,17 @@ h3 {
 
 #fig-name {
   position: absolute;
-  top: 405px;
-  left: 100px;
+  top: 425px;
+  left: 0px;
 }
 
 #main-figure {
-  width: 90%;
+  width: 100%;
 }
 
 #fig-image {
-  width: 400px;
-  height: 400px;
+  width: 420px;
+  height: 420px;
   margin-right: 20px;
 }
 
